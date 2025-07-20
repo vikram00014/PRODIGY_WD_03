@@ -14,8 +14,3 @@ An interactive **Tic-Tac-Toe** game using **HTML**, **CSS**, and **JavaScript**,
 - HTML
 - CSS
 - JavaScript
-
-### 📸 Preview
-*(Add screenshot or link to demo if available)*
-
----
